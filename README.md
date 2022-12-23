@@ -72,6 +72,11 @@ Lowdin電荷
 
 
 # 9. プログラムと指標算出、指標の選び方色々
+
+Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems
+
+https://doi.org/10.1021/acs.chemrev.1c00107
+
 ## 化学的な理論に基づいて選択
 
 ## フィルター法
